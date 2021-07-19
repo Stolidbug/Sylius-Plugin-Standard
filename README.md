@@ -22,16 +22,24 @@ in `/plugins` directory. Composer is configured to handle this directory. Create
 plugin instruction but keep your "standard edition" clean. Publish your plugin following Sylius rules and use this
 clean project for your updates.
 
-Installation
+Installation 
 ------------
-### Sylius 1.9 and php 7.4
+### Sylius 1.10 and php 7.4
 
 ```bash
 # GIT
-$ git clone --branch 1.9-7.4 --depth 1 git@github.com:pocky/Sylius-Plugin-Standard.git project
+$ git clone --branch 1.10-7.4 --depth 1 git@github.com:pocky/Sylius-Plugin-Standard.git project
 $ cd project && rm -Rf .git
 ```
+maintener
+------------
+### Sylius 1.10 and php 7.4
 
+```bash
+# GIT
+$ git clone git@github.com:pocky/Sylius-Plugin-Standard.git project
+
+```
 About
 -----
 
